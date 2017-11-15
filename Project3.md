@@ -1,14 +1,10 @@
 # Dawson Student Friend Finder #
 ---
-title:  '420-524-DW Project 3'
-date: Fall 2017
-author:
-- Jaya Nilakantan
-keywords:
--
-abstract: |
+420-524-DW Project 3 <br/>
+Fall 2017 <br/>
 
 ---
+
 In this project, your team of 3 or 4 will build a Laravel website hosted
 on Heroku that functions as a friend finder based on common breaks.
 
